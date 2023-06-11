@@ -1,4 +1,4 @@
-import{r as l,o as t,c as s,a as e,b as n,w as a,d as c}from"./index.1ab97972.js";const r={class:"text-gray-900"},_={class:"container py-10 mx-auto text-center min-h-screen grid place-items-center"},d={class:"max-w-lg rounded-2xl mx-auto p-3 space-y-5"},h=e("h1",{class:"text-2xl"},"Potential Medicalian",-1),m=e("h3",null,"23 Batch",-1),p={key:0,class:"px-3"},x=e("br",null,null,-1),u=e("h2",{class:"text-red-500 font-semibold text-lg"}," Marks Distribution ",-1),g=e("pre",null,`
+import{r as l,o as t,c as s,a as e,b as n,w as a,d as c}from"./index.9435e267.js";const r={class:"text-gray-900"},_={class:"container py-10 mx-auto text-center min-h-screen grid place-items-center"},d={class:"max-w-lg rounded-2xl mx-auto p-3 space-y-5"},h=e("h1",{class:"text-2xl"},"Potential Medicalian",-1),m=e("h3",null,"23 Batch",-1),p={key:0,class:"px-3"},x=e("br",null,null,-1),u=e("h2",{class:"text-red-500 font-semibold text-lg"}," Marks Distribution ",-1),g=e("pre",null,`
 Biology-30
 Chemistry-25
 Physics-20
